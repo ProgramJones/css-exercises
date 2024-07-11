@@ -1,0 +1,19 @@
+.pink-background-sans-serif {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+.big-p {
+    font-size: 24px;
+}
+
+#blue-heading {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-background-heading {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
